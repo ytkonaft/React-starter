@@ -6,23 +6,18 @@ or
 
 ### `yarn install`
 
-In this project used the json-server
-So you need to install
+Run node server
 
-### `npm i json-server -g`
-
-or
-
-### `yarn global add json-server`
-
-Then in the project directory run:
-
-### `json-server db.json`
-
-After that, you can start webpack-dev-server
-
-### `npm start`
+### `npm run run-server`
 
 or
 
-### `yarn start`
+### `yarn run-server`
+
+Start webpack-dev-server
+
+### `npm v`
+
+or
+
+### `yarn dev`
